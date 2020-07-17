@@ -13,5 +13,5 @@ Html Hints Team Project 1
    </a>
 8. <a href="https://www.instagram.com/xx.rushan_saiyed.xx/">Rushan Saiyed
    </a>
-9. <a href="https://www.instagram.com/chirag_1503/">Chirag
+9. <a href="https://www.instagram.com/_shubhdeep03/">Shubhdeep Sharma
 </a>
