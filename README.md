@@ -1,7 +1,7 @@
 # developersPortfolio
 
 Html Hints Team Project 1
-Contributors
+<p>Contributors</p>
 
 1. <a href="https://www.instagram.com/puneet_dudi/">Puneet</a>
 2. <a href="https://www.instagram.com/abdullah_tahir99/">Abdullah Tahir</a>
