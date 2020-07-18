@@ -3,7 +3,7 @@
 Html Hints Team Project 1
 <p>Contributors</p>
 
-1. <a href="https://www.instagram.com/puneet_dudi/">Puneet</a>
+1. <a href="https://www.instagram.com/puneet_dudi/">Puneet Dudi</a>
 2. <a href="https://www.instagram.com/abdullah_tahir99/">Abdullah Tahir</a>
 3. <a href="https://www.instagram.com/harshh._.7/">Harsh Raj</a>
 4. <a href="https://www.instagram.com/gadage_jitesh/">Jitesh</a>
